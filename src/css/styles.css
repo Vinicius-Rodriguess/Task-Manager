@@ -8,8 +8,8 @@
 }
 
 body {
-    background-color: #102f5e;
-    background-image: url(../img/FT60RMcagAADpuz.jpg);
+    background: linear-gradient(to bottom, #2c3e50, #2980b9);
+    /* background-image: url(../img/FT60RMcagAADpuz.jpg); */
     background-position: center;
     background-size: cover;
     display: flex;
