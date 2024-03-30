@@ -8,7 +8,7 @@
 }
 
 body {
-    background-image: url(/src/img/FT60RMcagAADpuz.jpg);
+    background-image: url(./src/img/FT60RMcagAADpuz.jpg);
     background-position: center;
     background-size: cover;
     display: flex;
