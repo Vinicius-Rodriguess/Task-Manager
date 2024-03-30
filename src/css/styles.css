@@ -8,7 +8,8 @@
 }
 
 body {
-    background-image: url(./src/img/FT60RMcagAADpuz.jpg);
+    background-color: #102f5e;
+    background-image: url(../img/FT60RMcagAADpuz.jpg);
     background-position: center;
     background-size: cover;
     display: flex;
@@ -146,6 +147,7 @@ input, select {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    flex-wrap: wrap;
     padding: 1rem;
     border-bottom: 1px solid #ddd;
     transition: .3s;
@@ -174,6 +176,4 @@ input, select {
     body {
         padding: 1rem;
     }
-
-
 }
