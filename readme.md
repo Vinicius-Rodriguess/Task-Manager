@@ -1,6 +1,6 @@
-# Todo list
-### Feito em Html, Css e JavaScript
-### As tarefas também são adicionadas ao Local Storage!
-<a href="https://vinicius-rodriguess.github.io/Todo-List/" target="_blank">Clique aqui para testar o projeto!</a>
+# Task Manager
+### A task manager that allows you to create a todo list with filters and status markers, also storing data in local storage.
+<a href="https://vinicius-rodriguess.github.io/Task-Manager/" target="_blank">
+Click here to test the project!</a>
 <p></p>
 <img src="/src/img/Screenshot_1.png"/>
